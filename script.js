@@ -8,3 +8,11 @@
 
 
 //!ветка ачкандан кийин жуктосок кайра
+//? git add .
+//? git commit -m 'comment'
+//? git push origin master название ветки
+
+
+//! marge болгондон кийин измененияны алып алыш учун
+
+//? git pull origin master
